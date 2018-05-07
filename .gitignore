@@ -1,0 +1,14 @@
+
+**/*.log
+SurveyAPI_Solution/.vs
+SurveyAPI_Solution/packages
+SurveyAPI_Solution/WebAPI/bin
+SurveyAPI_Solution/WebAPI/obj
+SurveyAPI_Solution/DataAccess/bin
+SurveyAPI_Solution/DataAccess/obj
+SurveyAPI_Solution/Business/bin
+SurveyAPI_Solution/Business/obj
+SurveyAPI_Solution/Domain/bin
+SurveyAPI_Solution/Domain/obj
+.DS_Store
+.idea
