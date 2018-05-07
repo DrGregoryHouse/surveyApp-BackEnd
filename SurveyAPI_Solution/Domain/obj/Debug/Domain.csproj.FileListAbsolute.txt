@@ -1,0 +1,11 @@
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\Domain.dll
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\Domain.pdb
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\obj\Debug\Domain.dll
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\obj\Debug\Domain.pdb
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\Domain.dll.config
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\postAcademia\AngularJS\schoolExample\surveyApp-BackEnd\SurveyAPI_Solution\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
