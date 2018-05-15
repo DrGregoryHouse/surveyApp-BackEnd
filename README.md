@@ -1,4 +1,7 @@
 # surveyApp-BackEnd
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/JulCesMelPin/surveyApp-BackEnd?branch=master)](https://bettercodehub.com/)
+
 API for a survey factory example in Visual Studio 2017.
 
 ## Table of contents
